@@ -1,9 +1,7 @@
 ### Hi, I'am Rogerio DMS  👋
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rogeriodms)](https://github.com/rogeriodms)
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rogerio-della-maggiora-9748a4152/)](https://www.linkedin.com/in/rogerio-della-maggiora-9748a4152/)
-
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=https://www.youtube.com/channel/UCvlB1PIL0LwXXbgrL113Uxw)](https://www.youtube.com/channel/UCvlB1PIL0LwXXbgrL113Uxw)
 
 ### About me
