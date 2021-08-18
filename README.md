@@ -7,9 +7,10 @@
 ### About me :alien:
 I'm a {backend, frontend and mobile} developer at [@Atmodigital](https://atmodigital.com.br/).
 
+<!--
 - [Blog](http://rogeriodella.com.br/#interests) ✍🏼 - I'm write about many things.
 - [Website](http://rogeriodella.com.br/) 💻 - Working on it.
-<!--
+
 **rogeriodms/rogeriodms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
