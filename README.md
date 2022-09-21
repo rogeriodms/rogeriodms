@@ -7,6 +7,11 @@
 ### About me :alien:
 I'm a {backend, frontend and mobile} developer at [@Claro](https://www.claro.com.br/static/landing/novo_produtos/?gclid=CjwKCAjw3_KIBhA2EiwAaAAlimjw7KBurU3YE2xFXk4w6sgnrwFsouQAsZBsPsRYQoTn_I5HBgudehoCCDMQAvD_BwE&gclsrc=aw.ds).
 
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 <!--
 - [Blog](http://rogeriodella.com.br/#interests) ✍🏼 - I'm write about many things.
 - [Website](http://rogeriodella.com.br/) 💻 - Working on it.
