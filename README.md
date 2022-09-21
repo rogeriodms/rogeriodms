@@ -12,6 +12,8 @@ I'm a {backend, frontend and mobile} developer at [@Claro](https://www.claro.com
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriodms&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogeriodms&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+  
+  ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 <!--
 - [Blog](http://rogeriodella.com.br/#interests) ✍🏼 - I'm write about many things.
 - [Website](http://rogeriodella.com.br/) 💻 - Working on it.
