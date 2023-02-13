@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rogerio-della-maggiora-9748a4152/)](https://www.linkedin.com/in/rogerio-della-maggiora-9748a4152/)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=https://www.youtube.com/channel/UCvlB1PIL0LwXXbgrL113Uxw)](https://www.youtube.com/channel/UCvlB1PIL0LwXXbgrL113Uxw)
 ### About me :alien:
-I'm a {backend, frontend and mobile} developer at [@Claro](https://www.claro.com.br/static/landing/novo_produtos/?gclid=CjwKCAjw3_KIBhA2EiwAaAAlimjw7KBurU3YE2xFXk4w6sgnrwFsouQAsZBsPsRYQoTn_I5HBgudehoCCDMQAvD_BwE&gclsrc=aw.ds).
+I'm a {backend, frontend and mobile} developer.
 
 <div>
 <a href="https://github.com/rogeriodms">
