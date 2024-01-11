@@ -3,6 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rogeriodms)](https://github.com/rogeriodms)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rogerio-della-maggiora-9748a4152/)](https://www.linkedin.com/in/rogerio-della-maggiora-9748a4152/)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=https://www.youtube.com/channel/UCvlB1PIL0LwXXbgrL113Uxw)](https://www.youtube.com/channel/UCvlB1PIL0LwXXbgrL113Uxw)
+[![wakatime](https://wakatime.com/badge/user/843af9b7-6e47-46fb-8c92-1d0ee888cb0f.svg)](https://wakatime.com/@843af9b7-6e47-46fb-8c92-1d0ee888cb0f)
 ### About me :alien:
 I'm a {backend, frontend and mobile} developer.
 
