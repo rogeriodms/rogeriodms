@@ -11,11 +11,10 @@ I'm a {backend, frontend and mobile} developer.
 <a href="https://github.com/rogeriodms">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeriodms&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogeriodms&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<figure><embed src="https://wakatime.com/share/@RogerioDMS/c456cf3c-71a6-40b9-9c1d-0490d7f78a98.svg"></embed></figure>
 </div>
 
 ![Snake animation](https://github.com/rogeriodms/rogeriodms/blob/output/github-contribution-grid-snake.svg)
-
-  <figure><embed src="https://wakatime.com/share/@RogerioDMS/c456cf3c-71a6-40b9-9c1d-0490d7f78a98.svg"></embed></figure>
 <!--
 - [Blog](http://rogeriodella.com.br/#interests) ✍🏼 - I'm write about many things.
 - [Website](http://rogeriodella.com.br/) 💻 - Working on it.
