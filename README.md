@@ -14,7 +14,8 @@ I'm a {backend, frontend and mobile} developer.
 </div>
 
 ![Snake animation](https://github.com/rogeriodms/rogeriodms/blob/output/github-contribution-grid-snake.svg)
-  
+
+  <figure><embed src="https://wakatime.com/share/@RogerioDMS/c456cf3c-71a6-40b9-9c1d-0490d7f78a98.svg"></embed></figure>
 <!--
 - [Blog](http://rogeriodella.com.br/#interests) ✍🏼 - I'm write about many things.
 - [Website](http://rogeriodella.com.br/) 💻 - Working on it.
